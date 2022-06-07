@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @b4sh1ng and 26 years old, comming from Germany.
+- 👋 Hi, I’m @b4sh1ng and 26 years old, from Germany.
 - 👀 I’m interested in 3D-Printing,Games...
 - 🌱 I’m currently learning(beginning) CS and C#.
 - 💞️
